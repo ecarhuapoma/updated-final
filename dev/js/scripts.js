@@ -180,5 +180,3 @@ mainTL.add(intro(),"-=2")
 // .add(planetBuilding(),"-=1");
 
 
-
-GSDevTools.create();
